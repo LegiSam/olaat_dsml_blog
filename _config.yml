@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: "One Line At A Time: A Data Science & Machine Learning Blog"
-description: “it’s really hard to come up with a  problem that computers won’t ever solve”’
+description: “it’s really hard to come up with a  problem that computers won’t ever solve”
 github_username: LegiSam
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "olaat_dsml_blog"
