@@ -6,7 +6,7 @@
 
 https://LegiSam.github.io/olaat_dsml_blog/
 
-# My Blog
+# One Line At A Time: A Data Science & Machine Learning Blog
 
 
 _powered by [fastpages](https://github.com/fastai/fastpages)_
